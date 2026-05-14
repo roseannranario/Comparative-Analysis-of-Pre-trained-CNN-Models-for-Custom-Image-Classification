@@ -43,3 +43,9 @@ G. Real-World Application
 17. Risks: Deploying an inaccurate model (like the ResNet50 version) could lead to the misidentification of rare species or incorrect care instructions for specific plants.
 
 18. Integration: The saved .keras files (shown being saved to Google Drive) can be exported and loaded into a TensorFlow.js or TensorFlow Lite framework for use in web and mobile applications.
+
+<img width="1686" height="458" alt="image" src="https://github.com/user-attachments/assets/15043f81-0bb9-44c7-9995-825a0abd4113" />
+<img width="1690" height="562" alt="image" src="https://github.com/user-attachments/assets/f3291875-b080-453b-a43e-fae4ce16a03e" />
+<img width="1685" height="583" alt="image" src="https://github.com/user-attachments/assets/af4a20ea-e872-4adb-b2bb-4b670fe7e93c" />
+<img width="1062" height="678" alt="image" src="https://github.com/user-attachments/assets/b33120df-c5e9-4b99-84a0-29adb28b6430" />
+
